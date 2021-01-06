@@ -1,6 +1,6 @@
 {
     "AX": {
-        "error": 0.006493344754997856,
+        "error": 0.006493344754997857,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -11,7 +11,7 @@
         },
         "fit": "Average",
         "fn": 60,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
@@ -30,7 +30,7 @@
         },
         "fit": "Average",
         "fn": 59,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 60,
         "outlier_excluded": [
             25
@@ -40,7 +40,7 @@
         "value": -0.023575564544505864
     },
     "H2": {
-        "error": 0.01779006683532404,
+        "error": 0.017790066835324043,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -51,7 +51,7 @@
         },
         "fit": "Average",
         "fn": 60,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
@@ -59,7 +59,7 @@
         "value": 0.006838199240155518
     },
     "L1": {
-        "error": 0.013957068919316449,
+        "error": 0.013957068919316452,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,7 +70,7 @@
         },
         "fit": "Average",
         "fn": 60,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
@@ -78,7 +78,7 @@
         "value": 0.05356287018706401
     },
     "L2(CDD)": {
-        "error": 6.469733770125129e-06,
+        "error": 6.469733770125131e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -89,7 +89,7 @@
         },
         "fit": "Average",
         "fn": 60,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 60,
         "outlier_excluded": [],
         "reviewed": true,
