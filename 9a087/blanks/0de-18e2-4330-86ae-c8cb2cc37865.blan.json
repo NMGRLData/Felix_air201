@@ -1,11 +1,11 @@
 {
     "Ar36": {
-        "error": 7.701320127852044e-05,
+        "error": 0.000158086723934813,
         "error_type": "",
         "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "ba-03-F-36",
                 "uuid": "13a765f5-57b5-4550-9b3a-9f6bf4e87c32"
             },
@@ -36,7 +36,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0018287770419829128
+        "value": 0.0017351687892897432
     },
     "Ar37": {
         "error": 0.011444781406245457,
@@ -156,12 +156,12 @@
         "value": 0.013959501717617792
     },
     "Ar40": {
-        "error": 0.029448542096220828,
+        "error": 0.03336275588175281,
         "error_type": "",
         "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "ba-03-F-36",
                 "uuid": "13a765f5-57b5-4550-9b3a-9f6bf4e87c32"
             },
@@ -192,6 +192,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.16711350184412338
+        "value": 0.19145657755958934
     }
 }
